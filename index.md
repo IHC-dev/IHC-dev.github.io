@@ -6,3 +6,6 @@ Moe is the proprietor and bartender of Moe's Tavern, a Springfield bar frequente
 * lonely
 * miserable
 * prone to violent outbursts
+Moe always greets Homer with:
+
+> Hey, Homer...
